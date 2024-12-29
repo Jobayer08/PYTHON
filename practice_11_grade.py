@@ -1,0 +1,5 @@
+tub=('c','d','a','a','b','b','a')
+print(tub.count('a'))
+list=list(tub)
+list.sort()
+print(list)
